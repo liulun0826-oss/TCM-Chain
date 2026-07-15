@@ -1,0 +1,21 @@
+{
+  "model": "DiNSR",
+  "seed": 42,
+  "data_availability": "restricted_clinical_data_not_included_in_public_repository",
+  "data_path_after_authorized_generation": "data/tcm_benchmark.csv",
+  "index_dir": "data/index_data",
+  "split": {"train": 0.75, "valid": 0.125, "test": 0.125},
+  "split_ratio": {"train": 6, "valid": 1, "test": 1},
+  "epochs": 50,
+  "batch_size": 16,
+  "max_length": 256,
+  "checkpoint_selection": "valid_predicted_chain_score",
+  "chain_inference": "soft",
+  "multilabel_threshold": 0.5,
+  "task_metrics": {
+    "diag": "macro_f1",
+    "syndrome": "macro_f1",
+    "treatment": "micro_f1",
+    "herb": "micro_f1"
+  }
+}

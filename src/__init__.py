@@ -1,0 +1,1 @@
+"""DiNSR benchmark implementation."""

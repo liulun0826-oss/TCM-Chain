@@ -1,0 +1,6 @@
+{
+  "paper_name": "w/o DiscrepancyGate",
+  "slug": "wo_discrepancy_gate",
+  "intervention": "Remove patient-specific discrepancy gating and inject symbolic evidence without a gate.",
+  "controlled_components": "The symbolic branch and task-specific learnable fusion coefficient are retained."
+}

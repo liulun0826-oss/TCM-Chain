@@ -1,0 +1,265 @@
+{
+  "release": "DiNSR_Benchmark",
+  "public_release": true,
+  "restricted_clinical_data_included": false,
+  "benchmark_rows_when_authorized_data_is_generated": 75315,
+  "split_counts_when_authorized_data_is_generated": {
+    "train": 56486,
+    "valid": 9414,
+    "test": 9415
+  },
+  "files": {
+    ".gitattributes": {
+      "bytes": 89,
+      "sha256": "55ce4d3b1fc19c0418dd4c07a306ee43ec7804d1eb9ea755615db3dc812ecd22"
+    },
+    ".gitignore": {
+      "bytes": 154,
+      "sha256": "9a731b889282a4589ee049d9fbeade95afa4d82acedeb2f135d5dfb24dbd5ffe"
+    },
+    "ablation_variants/__init__.py": {
+      "bytes": 157,
+      "sha256": "1bf5ea0d43e2040183bd4002c9738d980cc70759459ad388c98ea03d8d62fa70"
+    },
+    "ablation_variants/configs/OnlyN.json": {
+      "bytes": 279,
+      "sha256": "8a7ced5b4395464f2cb63a58dc0fd9ad02ca29f7b3b3560257b3ff0051d5a36b"
+    },
+    "ablation_variants/configs/OnlyS.json": {
+      "bytes": 291,
+      "sha256": "4c4c7deb32c1796866bfbce111c45b00f43d7b9f56741175c3c5ac95c6a3276c"
+    },
+    "ablation_variants/configs/wo_CRules.json": {
+      "bytes": 226,
+      "sha256": "570df5b3098a10283a26f132b2bf2ba1271d4129918f0801bcebc7409300a45a"
+    },
+    "ablation_variants/configs/wo_DiscrepancyGate.json": {
+      "bytes": 295,
+      "sha256": "2cc3920f6bef26f4225d14f305cc6e41a0b9022e436d1c2c814c9cbeabb63200"
+    },
+    "ablation_variants/configs/wo_FRules.json": {
+      "bytes": 219,
+      "sha256": "29c0281418016583d0338ff0a529b6f05acc76659b163b9fe84e19e59febccf8"
+    },
+    "ablation_variants/configs/wo_HRules.json": {
+      "bytes": 228,
+      "sha256": "7e4496cebf4031ff14c11ef8dab81b936f1b6a9e7ae76ee20acbedba18afb188"
+    },
+    "ablation_variants/configs/wo_NegRules.json": {
+      "bytes": 233,
+      "sha256": "b9406a65937395bc30a0ae6eabcacdf65a97eb65f193e1311e2f79d847d526d5"
+    },
+    "ablation_variants/configs/wo_RandomR.json": {
+      "bytes": 265,
+      "sha256": "ef7bc3238910f4cdc99c95ad8bc9e6102adec8d4c397945aa077b13261118932"
+    },
+    "ablation_variants/README.md": {
+      "bytes": 2693,
+      "sha256": "2837357ed225fc5a9d0825d22b70040ca4690cc8ec0d1be20f589c5b5ae1f543"
+    },
+    "ablation_variants/train_ablation.py": {
+      "bytes": 1261,
+      "sha256": "25c17924795f76db32df30f2160ebcee2eced1f3257d9854e253e4926e13ca3d"
+    },
+    "ablation_variants/variants.py": {
+      "bytes": 15810,
+      "sha256": "d300b7bbcea79a4123522e47066994a33e6a808475e0aed2ef6e06ade2d735ff"
+    },
+    "baseline/__init__.py": {
+      "bytes": 49,
+      "sha256": "28c1107afc9fa246ef496776c2c66c80ad083e6fdba2420d7a85c5c892be7a52"
+    },
+    "baseline/BGE-M3-LR.py": {
+      "bytes": 77,
+      "sha256": "ace4586bf61e78ec1893f2ac1cfb56f02aa1c8287855f0c3c0cabd46afe21c52"
+    },
+    "baseline/BiLSTM-Attn.py": {
+      "bytes": 85,
+      "sha256": "d73a78277b2b04f5acf5501b2117829923437125408207655cdcc0dc3c56a601"
+    },
+    "baseline/GAT.py": {
+      "bytes": 73,
+      "sha256": "c0e85dcdabf3d79a1218914f2b4360d035ec99363160d48879db76d9bc3fc748"
+    },
+    "baseline/GCN.py": {
+      "bytes": 73,
+      "sha256": "40ca7acd414eb9185f548acf710bbd5c308500cd319d9611525b0a932e24d2b3"
+    },
+    "baseline/HAN.py": {
+      "bytes": 73,
+      "sha256": "0b59f87fefc6f036f4a186ac1ed0a85983b8dbd4ca562ade512c1bcd25bfa441"
+    },
+    "baseline/HGT.py": {
+      "bytes": 73,
+      "sha256": "fad77f7c28e451951980d5023116d6772737727399131c4c3bca2eaf3bd3c11b"
+    },
+    "baseline/launcher.py": {
+      "bytes": 444,
+      "sha256": "9fc5e495879642d0c954b4aa6dd77271a4231ae809b4df88305d6724e2bf5fc7"
+    },
+    "baseline/Lexicon-Transformer.py": {
+      "bytes": 88,
+      "sha256": "72328fc757d3b97dd8867e924fe354653b3e57ccb1eaeef2b9bcd2fc7764a4e6"
+    },
+    "baseline/LightXML.py": {
+      "bytes": 78,
+      "sha256": "d1804c6e47b96786911196842914eac4d5e26f4cf7e6b484fbdabfffc383b1c7"
+    },
+    "baseline/MacBERT.py": {
+      "bytes": 77,
+      "sha256": "3dc8241a509711a0a93fd766a570070d98a02a03520af07b394422014074da85"
+    },
+    "baseline/MMoE.py": {
+      "bytes": 74,
+      "sha256": "1c42dacc9eb2bede4768d883fbcad887477e423c4265c1b963ee812550ab94df"
+    },
+    "baseline/models.py": {
+      "bytes": 25003,
+      "sha256": "f317d9eb2e171daaa328123952f3f0ff8364f0ba8f960cca07e8f5b6e2278251"
+    },
+    "baseline/PLE.py": {
+      "bytes": 73,
+      "sha256": "c18f206496ec954ec5e78f8a8ece67f6d8818370228fa4579a9183c6f3ce631e"
+    },
+    "baseline/R-GCN.py": {
+      "bytes": 74,
+      "sha256": "639bcc2cf34ab2ec81a4dc812e0d97b37c6e421d596fce3241d9b127608f294e"
+    },
+    "baseline/README.md": {
+      "bytes": 3467,
+      "sha256": "06d872dc1a9ddc86f801c636d5b04a8b85b384713d70d7a2682587ee9664500e"
+    },
+    "baseline/TextCNN.py": {
+      "bytes": 77,
+      "sha256": "b3a2a8b7640b65e7d0d25386b9c7adc82968c77e50085d437d4249d1a4269924"
+    },
+    "baseline/train.py": {
+      "bytes": 46753,
+      "sha256": "53e936f151a57a000bbfa0b2bec99de27161fc673951f867339a8f85546e8225"
+    },
+    "baseline/utils.py": {
+      "bytes": 24274,
+      "sha256": "a190eba7d36e595a7a07836f1698cc3337eaa34f3f5d31b498e67f205f86fe16"
+    },
+    "BENCHMARK_PROTOCOL.txt": {
+      "bytes": 1234,
+      "sha256": "339bd357811c2653736eb328631c2872f776d8d3232d8e16645ce1f303a1b501"
+    },
+    "config/benchmark.json": {
+      "bytes": 641,
+      "sha256": "2cd034b66624227ba60e13f6caae7ebdcb16c0a9085563b74d86a980b52945a9"
+    },
+    "data/clinical_data_access_notes.txt": {
+      "bytes": 1281,
+      "sha256": "2affc2e9b89de991cd2bad7a60a5fe54d7f7f3f34dc52ed18886cc00d5ee5dc0"
+    },
+    "data/index_data/herb_index.csv": {
+      "bytes": 11197,
+      "sha256": "28a3ebd1198d174d4e6bbc97ecfbbace179e055b333165acb069356a03ece35c"
+    },
+    "data/index_data/initial_diagnosis_index.csv": {
+      "bytes": 20792,
+      "sha256": "dc5c87de22bdcd81eb2083775cf4febccdab9832bb3b9bcbfdf5d291a10c820d"
+    },
+    "data/index_data/medical_text_lexicon_index.csv": {
+      "bytes": 1709409,
+      "sha256": "0bc7a3dc7a2656f52ac20f82ce692d8e801894f48aac95330a6f7d121bc9e618"
+    },
+    "data/index_data/syndrome_index.csv": {
+      "bytes": 7712,
+      "sha256": "242cb02d57b40a9d21b295e4f30ac0b432b20cedd3671ae688c6702da100e494"
+    },
+    "data/index_data/tcm_diagnosis_index.csv": {
+      "bytes": 3600,
+      "sha256": "0e0ddbb8b859a583f2bf5b51cc3f81e2cdc2b053ec53ab57c0865ee8d10737a5"
+    },
+    "data/index_data/treatment_principle_index.csv": {
+      "bytes": 2648,
+      "sha256": "9de10f1762e386fc993a1dbf0661073146784823a25f2d69c1adfeddc552039f"
+    },
+    "DATA_CARD.txt": {
+      "bytes": 2823,
+      "sha256": "ac1e96f62d21cdd66d07b520ae80c577189031bee6b48313c8fde09003b3e4ad"
+    },
+    "prepare_release_data.py": {
+      "bytes": 10721,
+      "sha256": "86dc9cac6d17c2462e6dcfa4bf1eae4699c31dfa386a1d69696b229e50495d4f"
+    },
+    "README.md": {
+      "bytes": 10380,
+      "sha256": "8d2e3ee487824cfa35a2f4ea2b70d113902ab8492e988859860ddb1de60b55b6"
+    },
+    "requirements.txt": {
+      "bytes": 134,
+      "sha256": "0b4701b5146792c69e60ca6994ac1b2d32f0003e6fff5d58a1a7b57025b2c50c"
+    },
+    "rules/herb_pair_rules.csv": {
+      "bytes": 1373878,
+      "sha256": "cd56afb570b64e079e79cb2e4fdd3fd3d99a4ebc8f1f1caa0d4304a9c299ffab"
+    },
+    "rules/high_order_rules.csv": {
+      "bytes": 25910424,
+      "sha256": "58838daa6e15073833226a06f36ae7b1a06cf27958e231b71709604ce4eb0816"
+    },
+    "rules/llm_audited_rules.csv": {
+      "bytes": 3672011,
+      "sha256": "7a82c979f6e7afa3191ecb4bf1bb8724d41f8a87fce7450d2d856a56763c8566"
+    },
+    "rules/path_rules.csv": {
+      "bytes": 19841462,
+      "sha256": "95c2fd36e62e9968bcae45a70582af3b5d072ee7b26a9b2731977e757ddc4896"
+    },
+    "rules/treatment_pair_rules.csv": {
+      "bytes": 25904,
+      "sha256": "5c17f0f4f8df46c6fb0ec4426e1e0f1ae8e7bb32f93545cb9415b1dfd30175ad"
+    },
+    "src/__init__.py": {
+      "bytes": 38,
+      "sha256": "1a98a30c451e6da9d9a2bacd9d879c18d6fcb37a06d8ffb55443b7964e916de7"
+    },
+    "src/backbone.py": {
+      "bytes": 7908,
+      "sha256": "e24bc5176141d03f127786da9ed38f3ed02090e887367c5a0338243b3cb3219a"
+    },
+    "src/dataset.py": {
+      "bytes": 6870,
+      "sha256": "de16a7d00f071cdfc98a78e79300b7225fd377759b2f4632c7abd79d0fee3845"
+    },
+    "src/dinsr.py": {
+      "bytes": 63542,
+      "sha256": "60e8e1e5e21cc5c5e7e06fe6ddfadb0fcde61ea70f75a46cb0742d8f6ffc91d6"
+    },
+    "src/metrics.py": {
+      "bytes": 5328,
+      "sha256": "64ceba350c279225ac61bff1ccada7a6c41cbec0580041e0fa7b64a2f0a8a1eb"
+    },
+    "src/neural_symbolic_dataset.py": {
+      "bytes": 2143,
+      "sha256": "dcff0c3af4eff65b72a5ecbf0068cd61e9bfed97a65688a147acbbc41114a700"
+    },
+    "src/symbolic_dataset.py": {
+      "bytes": 649,
+      "sha256": "5b38f65c28452b9cd81fd66425e7ae49db662d4f960b7189e4cb0fdb045b876e"
+    },
+    "src/utils.py": {
+      "bytes": 2084,
+      "sha256": "9afec64b4c6bb89d120b31c1d66552d22fb858102dc7b449afcf9c1f8d389abd"
+    },
+    "tests/test_ablation_variants.py": {
+      "bytes": 11466,
+      "sha256": "093fa1b643780605ed81666c212e4bbbe74232fae9f446934d024834547ea440"
+    },
+    "tests/test_release.py": {
+      "bytes": 3934,
+      "sha256": "95c5134d28431ad523e50b181165890006e010d0a1ee1d86549bfe469b2047c6"
+    },
+    "train.py": {
+      "bytes": 43804,
+      "sha256": "359bcd6f65be9a8b3be1b37ea562bbc7e5ecd56400de64973ba7438d71b909c6"
+    },
+    "validate_release.py": {
+      "bytes": 6060,
+      "sha256": "9fb143626945b7c7ab3d483a859bddf4740488a31fdc41f0bbdb27b3c99d6364"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "paper_name": "w/o RandomR",
+  "slug": "wo_random_r",
+  "intervention": "Apply a deterministic within-task derangement to every symbolic rule conclusion.",
+  "controlled_components": "Antecedents, signs, rule counts, weights, and source types are preserved."
+}

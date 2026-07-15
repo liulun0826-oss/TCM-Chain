@@ -1,0 +1,6 @@
+{
+  "paper_name": "w/o FRules",
+  "slug": "wo_f_rules",
+  "intervention": "Remove all audited first-order rules.",
+  "controlled_components": "High-order, path, and co-occurrence rules retain their original weights."
+}

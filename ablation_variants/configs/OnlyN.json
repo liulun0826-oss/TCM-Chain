@@ -1,0 +1,6 @@
+{
+  "paper_name": "OnlyN",
+  "slug": "only_n",
+  "intervention": "Use the neural chain only; symbolic reasoning and fusion are bypassed.",
+  "controlled_components": "Neural architecture, training schedule, split, checkpoint selection, and evaluation protocols are unchanged."
+}

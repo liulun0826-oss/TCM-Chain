@@ -1,0 +1,61 @@
+Dataset Card
+============
+
+Public file status: data/tcm_benchmark.csv is not included in this public
+repository.
+Authorized local file: data/tcm_benchmark.csv.
+Rows after authorized local generation: 75,315 before any user-side filtering.
+Tasks: TCM diagnosis, syndrome, treatment principle, and herb recommendation.
+Inputs used by the model: medical-record summary, age, sex, initial diagnosis,
+and indexed medical-text lexicon tokens.
+Fixed split: train/valid/test = 6:1:1, implemented as 56,486 / 9,414 /
+9,415 rows for this 75,315-row release.
+Index tables: data/index_data contains romanized public mappings for initial
+diagnosis, TCM diagnosis, syndrome, treatment principle, herb, and medical-text
+lexicon IDs. Each index table uses id, name, and count.
+
+Data Access Policy
+------------------
+The public repository releases code, rules, index tables, configuration, and
+data preparation scripts. Patient-level clinical records are not redistributed
+in the public repository.
+
+Authorized users may generate data/tcm_benchmark.csv locally with:
+
+python prepare_release_data.py
+
+The generated file is ignored by Git. It must not be committed to a public
+repository unless the data holder has confirmed that ethics approval and
+institutional authorization cover public data sharing.
+
+Ethics and Governance
+---------------------
+The authors retain a project-application-stage ethics review opinion for a
+study on deep learning based TCM herbal recommendation from clinical TCM
+electronic medical records. The scanned ethics document is not redistributed in
+this repository because it contains institutional stamps, signatures, and
+project metadata.
+
+This public release does not treat the project-application-stage ethics opinion
+as sufficient standalone authorization for redistributing patient-level
+clinical text. Any release of the complete clinical table requires additional
+confirmation that the ethics approval and institutional data-sharing terms
+cover the intended sharing scenario.
+
+De-identification Performed For This Release
+--------------------------------------------
+- Removed original prescription number.
+- Removed patient name.
+- Removed redundant raw free-text columns: chief complaint, brief history, and
+  physical examination. The model-facing medical-record summary is kept.
+- Added a non-identifying sequential case_id.
+- Added a fixed split column reproducing seed-42 6:1:1 splitting.
+- Replaced exact row-level occurrences of the removed name and prescription
+  number in free-text columns when present.
+
+Limitations
+-----------
+Automated de-identification cannot prove that all identifying information has
+been removed from free clinical text. Users must not attempt patient
+re-identification and must not use the data for clinical diagnosis, treatment
+decisions, or any unauthorized purpose.

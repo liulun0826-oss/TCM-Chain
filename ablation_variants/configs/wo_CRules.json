@@ -1,0 +1,6 @@
+{
+  "paper_name": "w/o CRules",
+  "slug": "wo_c_rules",
+  "intervention": "Remove treatment and herb co-occurrence rules.",
+  "controlled_components": "First-order, high-order, and path rules retain their original weights."
+}

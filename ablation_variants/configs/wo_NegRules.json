@@ -1,0 +1,6 @@
+{
+  "paper_name": "w/o NegRules",
+  "slug": "wo_neg_rules",
+  "intervention": "Remove all negative conflict rules before rule-source attention.",
+  "controlled_components": "Positive rules and their evidence weights are retained."
+}

@@ -1,0 +1,45 @@
+Benchmark protocol
+==================
+
+Primary evaluation uses predicted-chain inference: every downstream stage
+consumes upstream model predictions. Oracle-chain results are auxiliary.
+
+Primary task metrics
+--------------------
+diag: macro-F1
+syndrome: macro-F1
+treatment: micro-F1 at threshold 0.5
+herb: micro-F1 at threshold 0.5
+chain_score: arithmetic mean of the four task metrics
+
+Data split
+----------
+The public repository does not redistribute patient-level clinical records.
+Authorized users should generate data/tcm_benchmark.csv locally with
+prepare_release_data.py and use the fixed split column in that file.
+The benchmark split is train/valid/test = 6:1:1.
+For 75,315 rows this gives train=56,486, valid=9,414, test=9,415.
+
+Ranking diagnostics
+-------------------
+diag top-k: 3
+syndrome top-k: 3
+treatment top-k: 5
+herb top-k: 13
+
+Model selection
+---------------
+Select the checkpoint with the highest validation predicted-chain score.
+Evaluate the test partition once using that checkpoint.
+
+Default optimization
+--------------------
+epochs: 50
+batch_size: 16
+MacBERT learning rate: 2e-5
+neural-head learning rate: 1e-3
+rule learning rate: 5e-4
+fusion learning rate: 1e-3
+weight decay: 0.01
+warmup ratio: 0.1
+seed: 42

@@ -1,0 +1,6 @@
+{
+  "paper_name": "OnlyS",
+  "slug": "only_s",
+  "intervention": "Use symbolic predictions only; neural logits are excluded from all task outputs.",
+  "controlled_components": "Co-occurrence evidence is seeded by a detached first-pass symbolic prediction instead of neural probabilities."
+}

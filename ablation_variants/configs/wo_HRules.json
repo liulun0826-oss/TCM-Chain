@@ -1,0 +1,6 @@
+{
+  "paper_name": "w/o HRules",
+  "slug": "wo_h_rules",
+  "intervention": "Remove all high-order multi-antecedent rules.",
+  "controlled_components": "First-order, path, and co-occurrence rules retain their original weights."
+}
