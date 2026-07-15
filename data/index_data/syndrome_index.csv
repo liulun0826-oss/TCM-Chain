@@ -1,0 +1,267 @@
+﻿id,name,count
+0,Qi Zhi Xie Yu Zheng,4125
+1,Gan Yu Zheng,3644
+2,Han Shi Zheng,3550
+3,Shi Re Xia Zhu Zheng,3307
+4,Xin Pi Liang Xu Zheng,2549
+5,Pi Wei Qi Xu Zheng,2236
+6,Feng Re Fan Fei Zheng,2182
+7,Feng Re Gan Mou Zheng,2135
+8,Gan Shen Yu Xu Zheng,1974
+9,Feng Han Shi Bi Zu Zheng,1860
+10,Pi Wei Bu He Zheng,1651
+11,Shi Kun Pi Wei Zheng,1627
+12,Gan Yang Shang Kang Zheng,1427
+13,Gan Yu Qi Zhi Zheng,1390
+14,Xin Dan Qi Xu Zheng,1312
+15,Qi Ji Zu Zhi Zheng,1282
+16,Shi Re Nei Yun Zheng,1202
+17,Tan Huo Rao Shen Zheng,1189
+18,Pi Xu Shi Kun Zheng,1188
+19,Pi Xu Shi Yun Zheng,1162
+20,Gan Qi Fan Wei Zheng,1144
+21,Pi Wei Xu Zheng,1128
+22,Qi Xie Yu Xu Zheng,1110
+23,Tan Shi Yun Fei Zheng,1084
+24,Feng Han Xi Fei Zheng,1024
+25,Qi Xu Zheng,925
+26,Xin Pi Shi Re Zheng,913
+27,Shen Xu Zheng,806
+28,Shi Re Zhong Zu Zheng,787
+29,Pi Qi Bu Zu Zheng,731
+30,Feng Re Qin Yan Zheng,712
+31,Xin Shen Bu Jiao Zheng,702
+32,Shi Re Yun Jie Zheng,686
+33,Pi Xu Shi Zu Zheng,651
+34,Feng Zao Shang Fei Zheng,649
+35,Fei Re Xun Bi Zheng,625
+36,Pi Shen Liang Xu Zheng,622
+37,Fei Yin Hao Shang Zheng,566
+38,Yin Shi Ji Zhi Zheng,549
+39,Gan Shen Yin Xu Zheng,549
+40,Tan Re Yong Fei Zheng,542
+41,Fei Jing Feng Re Zheng,509
+42,Gan Yu Pi Xu Zheng,493
+43,Fei Pi Qi Xu Zheng,465
+44,Feng Han Gan Mou Zheng,457
+45,Feng Xie Zheng,451
+46,Qi Xu Xie Yu Zheng,451
+47,Pi Qi Xu Zheng,434
+48,Shen Jing Yu Xu Zheng,413
+49,Tan Yu Hu Jie Zheng,390
+50,Fei Qi Xu Zheng,370
+51,Pi Shen Qi Xu Zheng,361
+52,Tan Yu Zheng,355
+53,Shi Re Yong Zhi Zheng,353
+54,Yu Xie Zu Zhi Zheng,341
+55,Qi Xie Bi Zu Zheng,338
+56,Shang Shi Zheng,335
+57,Feng Xie Wai Xi Zheng,329
+58,Pi Wei Han Shi Zheng,325
+59,Fei Wei Re Sheng Zheng,322
+60,Feng Shi Bi Zu Zheng,319
+61,Ru Shi Shang Wei Zheng,316
+62,Gan Yu Tan Ning Zheng,313
+63,Shi Re Zheng,310
+64,Tan Shi Zhong Zu Zheng,306
+65,Pi Xu Zheng,306
+66,Chang Wei Shi Re Zheng,305
+67,Yin Xu Huo Wang Zheng,284
+68,Zheng Xu Xie Lian Zheng,280
+69,Pi Shen Yu Xu Zheng,273
+70,Gan Xie Xu Zheng,264
+71,Pi Wei Shi Re Zheng,264
+72,Feng Re Zheng,263
+73,Xin Xie Yu Zu Zheng,262
+74,Gan Huo Zheng,260
+75,Fei Qi Xu Han Zheng,246
+76,Zao Xie Fan Fei Zheng,235
+77,Shen Yin Xu Zheng,233
+78,Yu Xie Zu Luo Zheng,230
+79,Han Ning Xie Yu Zheng,228
+80,Qi Zhi Tan Zu Zheng,219
+81,Qi Xie Liang Xu Zheng,211
+82,Chang Dao Shi Re Zheng,200
+83,Pi Shen Yang Shuai Zheng,200
+84,Tan Shi Ning Jie Zheng,195
+85,Xie Xu Zheng,191
+86,Xie Yu Zheng,185
+87,Gan Yu Hua Huo Zheng,169
+88,Tan Re Zheng,168
+89,Qi Yin Liang Xu Zheng,161
+90,Shi Re Yun Chang Zheng,157
+91,Wai Shang Yu Zhi Zheng,156
+92,Pi Shen Yang Xu Zheng,147
+93,Gan Wei Qi Zhi Zheng,146
+94,Feng Re Fan Biao Zheng,144
+95,Qi Zhi Zheng,144
+96,Qi Xu Luo Yu Zheng,139
+97,Tan Shi Zu Luo Zheng,137
+98,Tan Shi Zheng,137
+99,Gan Shen Bu Zu Zheng,135
+100,Qi Xu Bi Qiao Shi Chong Zheng,135
+101,Yin Xu Xie Re Zheng,133
+102,Chong Ren Shi Diao Zheng,124
+103,Shi Re Zu Luo Zheng,124
+104,Gan Qi Yu Jie Zheng,123
+105,Gan Jing Yu Re Zheng,122
+106,Wei Fen Zheng,122
+107,Shi Zu Chang Dao Zheng,118
+108,Gan Huo Shang Yan Zheng,116
+109,Tan Qi Hu Jie Zheng,115
+110,Gan Yu Shi Re Zheng,111
+111,Shen Yang Xu Zheng,108
+112,Xin Xu Dan Qie Zheng,103
+113,Xu Han Zheng,101
+114,Feng Re Hua Zao Zheng,100
+115,Shen Yin Yang Liang Xu Zheng,100
+116,Yang Xu Bi Qiao Shi Xu Zheng,97
+117,Han Ning Qi Zhi Zheng,92
+118,Fei Jing Zheng,91
+119,Bang Guang Shi Re Zheng,89
+120,Shi Re Zheng Bi Zheng,89
+121,Da Chang Re Jie Zheng,82
+122,Shi Re Yun Zheng Zheng,82
+123,Gan Pi Shi Re Zheng,79
+124,Shen Yang Bu Zu Zheng,77
+125,Feng Shi Zheng,77
+126,Ying Wei Bu He Zheng,75
+127,Bao Gong Tan Shi Zu Zhi Zheng,74
+128,Xin Xie Bu Zu Zheng,73
+129,Gan Wang Pi Xu Zheng,72
+130,Feng Tan Yu Bi Mai Luo Zheng,72
+131,Tan Shi Nei Yun Zheng,72
+132,Da Chang Jin Yu Zheng,71
+133,Gan Wei Yu Re Zheng,70
+134,Shen Qi Xu Zheng,70
+135,Feng Shi Re Bi Zheng,68
+136,Feng Han Xi Luo Zheng,67
+137,Gan Huo Fan Fei Zheng,67
+138,Gan Huo Shi Re Zheng,66
+139,Shu Shi Gan Mou Zheng,66
+140,Pi Qi Xia Xian Zheng,66
+141,Gan Dan Shi Re Zheng,65
+142,Pi Xu Jian Jia Zheng,64
+143,Yu Xie Bi Zu Zheng,63
+144,Huo Du Ning Jie Zheng,63
+145,Yin Xie Yu Xu Zheng,63
+146,Shi Re Yun Du Zheng,63
+147,Gan Yin Xu Zheng,60
+148,Yin Xu Zheng,60
+149,Pi Yang Xu Shui Fan Zheng,59
+150,Tan Zhuo Zu Fei Zheng,58
+151,Pi Yang Xu Zheng,56
+152,Gan Yu Xie Re Zheng,56
+153,Tan Huo Yu Jie Zheng,56
+154,Tan Yu Zu Luo Zheng,55
+155,Pi Wei Ji Re Zheng,54
+156,Han Re Cuo Za Zheng,52
+157,Re Jie Chang Zao Zheng,52
+158,Qing Yang Bu Sheng Zheng,51
+159,Fei Pi Liang Xu Zheng,48
+160,Shi Zhuo Zheng,47
+161,Pi Shi Jian Yun Zheng,47
+162,Xie Re Chang Zao Zheng,46
+163,Fei Shen Yin Xu Zheng,46
+164,Yin Xu Yan Hou Shi Ru Zheng,45
+165,Qi Zhi Tan Jie Yan Hou Zheng,45
+166,Qi Xu Gan Mou Zheng,44
+167,Bao Gong Xie Re Zheng,44
+168,Tan Yu Bi Zu Zheng,41
+169,Qi Xu Yan Hou Shi Chong Zheng,40
+170,Feng Han Fan Tou Zheng,40
+171,Shi Zhuo Zhong Zu Zheng,39
+172,Qi Xu Xie Lian Zheng,39
+173,Qi Zhi Xie Yu Zheng,39
+174,Gan Wei Bu He Zheng,38
+175,Tan Zhuo Zheng,38
+176,Han Shi Nei Qin Zheng,36
+177,Yu Xie Nei Ting Zheng,35
+178,Qi Zhi Tan Yu Zheng,34
+179,Xin Shen Bu Zhu Zheng,33
+180,Re Du Chi Sheng Zheng,33
+181,Feng Re Fan Tou Zheng,32
+182,Tan Yu Zu Fei Zheng,30
+183,Gan Xie Yu Zu Zheng,29
+184,Yu Zu Nao Qiao Zheng,29
+185,Pi Yang Xu Shuai Zheng,29
+186,Gan Feng Nei Dong Zheng,28
+187,Fei Shen Liang Xu Zheng,28
+188,Fei Re Zheng,28
+189,Qi Xu Du Lian Zheng,27
+190,Feng Yang Nei Dong Zheng,27
+191,Han Xie Fan Wei Zheng,27
+192,Re Du Yong Jie Zheng,27
+193,Zhong Qi Xia Xian Zheng,26
+194,Tan Qi Yu Jie Zheng,26
+195,Xin Xu Xie Yu Zheng,26
+196,Gan Huo Chi Sheng Zheng,25
+197,Da Chang Shi Zheng,25
+198,Tan Re Bi Fei Zheng,25
+199,Pi Xu Xie Yu Zheng,25
+200,Wei Yin Xu Zheng,24
+201,Han Shi Yu Zhi Zheng,24
+202,Feng Re Xie Du Zheng,23
+203,Tan Shi Zu Zhi Zheng,23
+204,Xie Yu Qi Zhi Zheng,22
+205,Fei Qi Shang Ni Zheng,22
+206,Fei Xu Zheng,22
+207,Tan Shi Yu Zhi Zheng,22
+208,Gan Yu Shen Xu Zheng,21
+209,Biao Han Li Yin Zheng,21
+210,Qi Yin Liang Shang Zheng,21
+211,Shi Re Zu Bi Zheng,21
+212,Shen Qi Bu Zu Zheng,21
+213,Pi Xu Qi Zhi Zheng,21
+214,Yu Tan Zheng,20
+215,Qi Zhi Tan Ning Zheng,20
+216,Sui Hai Bu Zu Zheng,20
+217,Qi Xu Tan Jie Zheng,20
+218,Qi Zhi Tan Ning Yan Hou Zheng,20
+219,Pi Xu Tan Ning Zheng,19
+220,Pi Xu Shi Yun Zheng,19
+221,Tan Jie Xie Yu Zheng,19
+222,Tan Re Yu Fei Zheng,19
+223,Tai Yang Zhong Feng Zheng,18
+224,Shen Yang Xu Shuai Zheng,18
+225,Fei Jing Re Sheng Zheng,18
+226,Feng Huo Shang Fan Zheng,18
+227,Xin Yang Bu Zu Zheng,17
+228,Da Chang Shi Re Zheng,17
+229,Re Sheng Shang Jin Zheng,17
+230,Fei Wei Yun Re Zheng,17
+231,Feng Re Fan Mu Zheng,17
+232,Tan Huo Nei Rao Zheng,17
+233,Gan Xie Bu Zu Zheng,17
+234,Tan Re Nei Rao Zheng,16
+235,Yu Xie Wei Jin Zheng,15
+236,Xie Xu Chang Zao Zheng,15
+237,Feng Han Shu Biao Zheng,15
+238,Da Chang Xu Zheng,15
+239,Xie Yu Luo Zhi Zheng,15
+240,Shi Re Jin Yin Zheng,15
+241,Feng Shui Fan Lan Zheng,15
+242,Han Shi Bi Zu Zheng,14
+243,Qi Xie Yu Zhi Zheng,14
+244,Re Du Yun Jie Da Chang Zheng,14
+245,Zheng Xu Yu Jie Zheng,13
+246,Tan Shi Shang Zu Zheng,13
+247,Shui Qi Ling Xin Zheng,13
+248,Xin Shen Liang Xu Zheng,13
+249,Pi Shen Jian Zheng,13
+250,Tan Re Dong Feng Zheng,13
+251,Shi Re Yun Wei Zheng,13
+252,Yu Zu Fei Luo Zheng,12
+253,Xie Xu Xie Tan Zheng,12
+254,Da Chang Han Jie Zheng,12
+255,Shui Shi Jin Zi Zheng,11
+256,Pi Shen Xu Shuai Zheng,11
+257,Biao Li Shi Han Zheng,11
+258,Xin Jing Ji Re Zheng,11
+259,Shen Xu Jian Jia Zheng,11
+260,Tan Zhuo Meng Qiao Zheng,10
+261,Gan Yu Xie Yu Zheng,10
+262,Pi Wei Jian Zheng,10
+263,Ru Shi Ji Zhi Zheng,10
+264,Feng Re Xi Luo Zheng,10
+265,Xie Zao Zheng,10

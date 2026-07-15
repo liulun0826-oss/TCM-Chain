@@ -1,0 +1,188 @@
+﻿id,name,count
+0,Wei Pi Bing,5668
+1,Ke Sou,4895
+2,Bi Zheng Lei Bing,4516
+3,Bu Mei Bing,4483
+4,Xu Lao Lei Bing,3893
+5,Yan Lei Bing,3573
+6,Shao Yang Bing,3561
+7,Yao Tong,2738
+8,Dai Xia Lei Bing,2657
+9,Gan Mou,2652
+10,Ke Sou Bing,2556
+11,Xuan Yun,2303
+12,Jin Bi,2218
+13,Ji Zhi,1716
+14,Jin Gu Bing,1675
+15,Shi Chuang,1552
+16,Wang Bi,1503
+17,Fu Tong,1411
+18,Shi Mian,1368
+19,Shi Zu Bing,1331
+20,Bi Yuan,1177
+21,Kou Mi,981
+22,Fei Yan,776
+23,Hou Bi,743
+24,Yue Jing Hou Qi,739
+25,Xie Xie Bing,626
+26,Man Hou Bi,578
+27,Xiao Ke Lei Bing,574
+28,Tou Tong,532
+29,Jing Zhui Bing,529
+30,Bi Qiu,521
+31,Bian Mi,505
+32,Jing Zhuo,480
+33,Yue Jing Guo Shao,469
+34,Wei Tong,451
+35,Sun Shang Teng Tong,426
+36,Re Lin,417
+37,Tong Jing,403
+38,Dao Han,403
+39,Gu Zhe Bing,397
+40,Yue Jing Lei Bing,371
+41,Xiao Er Chou Dong Zheng,354
+42,Jue Jing Qian Hou Zhu Zheng,342
+43,Xiao Er Za Bing,326
+44,Zi Han,307
+45,Yue Jing Xian Qi,306
+46,Shen Shuai Bing,290
+47,Chang Yan,281
+48,Er Ming,280
+49,Xin Ji,277
+50,Shui Zhong,277
+51,Fen Ci,266
+52,Ru Pi,262
+53,Duo Tai,256
+54,Ru Yan,245
+55,Jing Qi Yan Chang,241
+56,Ou Tu,239
+57,Shi Lin,233
+58,Mei He Qi,232
+59,Yin Zhen,232
+60,Guan Pi,230
+61,Fei Zhang,229
+62,Hun He Zhi,228
+63,Chuang Shang Lei Bing,215
+64,Yu Bing,215
+65,Gan Yan,207
+66,Ying Lei Bing,206
+67,Gan Zhao,206
+68,Cuo Chuang,194
+69,She Chuan Chuang,193
+70,Niao Zhuo,191
+71,Zu Fu Tong,188
+72,Xie Tong,175
+73,Pi Xi Bing,163
+74,Beng Lou,151
+75,Zhong Feng Bing,139
+76,Wei Yan,134
+77,Fa Re,122
+78,Ji Bi,121
+79,You Mu,107
+80,Kou Pi,104
+81,Fei Pang Bing,104
+82,Gang Lie,99
+83,Bi Zhi,97
+84,Ji Bing,91
+85,You Feng,88
+86,Lin Zheng,87
+87,Zhen Xin Tong,86
+88,Fu Zhang Bing,79
+89,Ru E,79
+90,Yan Shi Bing,79
+91,Yue Jing Guo Duo,76
+92,Xiao Ke Jue,76
+93,Bian Mi Bing,75
+94,Fu Xie,71
+95,Shi Xing Gan Mou,68
+96,Bi Jing,68
+97,Zang Zao,66
+98,Yue Jing Xian Hou Wu Ding Qi,65
+99,Yong,61
+100,Tan Yin,60
+101,Yin Yang,60
+102,Ji Ju Lei Bing,59
+103,Bi Nu,58
+104,Yi Bing,56
+105,Kou Gan,54
+106,Xiong Tong,52
+107,Zhan Bing,48
+108,Tong Feng,47
+109,Liu Lei Bing,46
+110,Yan Bing Lei Zhu Yu,44
+111,Lou Xia,43
+112,Wei Bi,42
+113,Li Hei Ban,42
+114,Luo Li,42
+115,Que Xie Xing Zhong Feng,41
+116,Xiong Bi Xin Tong,41
+117,Gu Zhang Bing,38
+118,Ji Hou Bi,38
+119,Le Gu Gu Zhe,37
+120,Guan Jie Tong,37
+121,Xi Bi,36
+122,Nao Gu Gu Zhe,32
+123,Hou Yong,32
+124,Shu Bing,31
+125,Bai Dai,31
+126,Er Long,31
+127,Wu Chi,30
+128,Huang Dan,29
+129,Liu Yan Bing Lei Zhu Yu,28
+130,Chi Ai Bing,28
+131,E Ni Bing,28
+132,Gan Zhang,28
+133,Shen Lao Bing,27
+134,Dian Bing,26
+135,Ji Bi,25
+136,Jing Long,25
+137,Bu Yun,25
+138,Gong Jing Yan,24
+139,Shi Ying,24
+140,Nei Zhi,24
+141,Gang Lou,24
+142,Tai Dong Bu An,24
+143,Feng Zhen,24
+144,Long Bi,24
+145,Xian Bing,23
+146,Yi Niao Bing,22
+147,Yan Dan,21
+148,Jing Bing,21
+149,Xin Bi,21
+150,Fei Ji,21
+151,Gen Gu Gu Zhe,21
+152,E Zu,20
+153,Tai Yang Bing,20
+154,Xiao Er Ke Sou,20
+155,Xiao Er Xing Zao Shou,20
+156,Fu Zhang,19
+157,Bu Yu Lei Bing,18
+158,Xiao Er Duo Dong Zheng,18
+159,Er Zhang,18
+160,Shen Shui Bing,18
+161,Niao Xie,18
+162,Xie Lao,17
+163,Suo Gu Gu Zhe,17
+164,Tuo Gang,16
+165,Jie,15
+166,Zhi Gu Gu Zhe,15
+167,Gang Yong,15
+168,Zhi Chuang,15
+169,Tong Bi,15
+170,Xiong Gu Gu Zhe,14
+171,Shen Zhao,14
+172,Hou Yin,14
+173,Bi Yan,14
+174,Hong Hu Die Chuang,14
+175,Chang Yong,13
+176,Shen Yan,13
+177,Er Chuang,12
+178,Dan Zhang Bing,12
+179,Xie Liu,12
+180,Gan Ji,11
+181,Wai Gan Ke Sou,11
+182,Cha Sai,11
+183,Zi Dian Bing,11
+184,Wen Bing,11
+185,Gu Bi,11
+186,Yue Jing Qian Hou Zhu Bing,10

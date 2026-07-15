@@ -1,0 +1,578 @@
+﻿id,name,count
+0,112342|Ke Sou,4346
+1,118853|Shui Mian Zhang Ai,3211
+2,103061|Ji Xing Shang Hu Xi Dao Gan Ran,3037
+3,104088|Man Xing Wei Yan,2473
+4,104600|Yue Jing Bu Gui Ze,2404
+5,115021|Pi Lao Zong He Zheng,2338
+6,123152|Yao Zhui Jian Pan Tu Chu,1796
+7,123381|Yao Tong,1653
+8,123141|Wei Chang Gong Neng Wen Luan,1225
+9,217444|E Xing Zhong Liu,1217
+10,140320|Yin Dao Yan,1199
+11,219098|Fei E Xing Zhong Liu,1157
+12,140710|Shi Mian,1099
+13,102571|Zhi Qi Guan Yan,1067
+14,122119|Hun He Xing Jing Zhui Bing,1018
+15,103464|Ji Xing Zhi Qi Guan Yan,983
+16,103486|Man Xing Yan Yan,845
+17,104430|Xi Guan Jie Tong,825
+18,102570|Shang Hu Xi Dao Ji Bing,819
+19,103510|Man Xing Bi Dou Yan,789
+20,152585|Tou Yun,782
+21,147028|Fu Tong,733
+22,104099|Wei Yan,712
+23,104910|Bian Mi,681
+24,153639|Fa Li,641
+25,103478|Bian Ying Xing Bi Yan,624
+26,103578|Shi Zhen,617
+27,211501|Gao Xie Ya,614
+28,106837|Tou Tong,574
+29,105089|Nu Xing Pen Qiang Yan,488
+30,111178|Guan Jie Yan,478
+31,111043|Man Xing Qian Lie Xian Yan,471
+32,104425|Jian Guan Jie Tong,459
+33,122113|Shen Jing Gen Xing Jing Zhui Bing,446
+34,104087|Man Xing Wei Suo Xing Wei Yan,435
+35,102675|Cuo Chuang,434
+36,115928|Wei Chang Yan,429
+37,217036|Gan E Xing Zhong Liu,427
+38,146598|Xiao Hua Bu Liang,424
+39,117393|Chou Dong Zhang Ai,411
+40,103038|Ji Xing Yan Yan,383
+41,106895|Dao Han,375
+42,144822|Pi Lao,373
+43,219124|Jia Zhuang Xian E Xing Zhong Liu,368
+44,104629|Wei Jue Jing Qi Zong He Zheng,361
+45,103111|Te Ying Xing Pi Yan,356
+46,104923|Chang Gong Neng Wen Luan,349
+47,123177|Jing Zhui Bu Wen Ding,344
+48,152583|Xuan Yun,341
+49,104613|Tong Jing,338
+50,217299|Wei E Xing Zhong Liu,328
+51,123384|Yao Ji Lao Sun,321
+52,107684|Er Ming,321
+53,106894|Duo Han Zheng,319
+54,111227|Jin Mo Yan,318
+55,103479|Man Xing Bi Yan,314
+56,218963|Jie Chang E Xing Zhong Liu,309
+57,107022|Sun Shang,307
+58,111402|Fei Bu Gan Ran,307
+59,141498|Tang Niao Bing,298
+60,106835|Fa Re,289
+61,147515|Ren Ru Tou Liu Bing Du Gan Ran,289
+62,109568|Ruan Zu Zhi Ji Huan,288
+63,103032|Ji Xing Bi Dou Yan,261
+64,113538|Gan Ran Xing Fa Re,260
+65,104606|Yi Chang Zi Gong Chu Xie,258
+66,106921|Kou Gan,250
+67,111229|Jian Zhou Yan,244
+68,111027|Mi Niao Dao Gan Ran,242
+69,217893|Man Xing Zu Sai Xing Fei Bing,237
+70,"216691|Ru Xian E Xing Zhong Liu,Wai Ce",222
+71,146596|Xiong Men,219
+72,217178|Zhi Chang E Xing Zhong Liu,219
+73,112411|Kou Chou,219
+74,107331|Jian Xiu Sun Shang,218
+75,103576|Pi Yan,216
+76,102472|Man Xing Hou Yan Yan,213
+77,112325|Xin Ji,211
+78,217993|Jing Shen Fen Lie Zheng,209
+79,142162|Hun He Zhi,209
+80,145792|Chang Gong Neng Wen Luan,207
+81,102228|Gao Xie Ya Bing,199
+82,144781|Gu Li Xing Fei Jie Jie,198
+83,114341|Man Xing Huo Dong Xing Yi Xing Bing Du Xing Gan Yan,197
+84,110291|Man Xing Ya Zhou Yan,193
+85,218320|Ru Xian E Xing Zhong Liu Shi,191
+86,111833|Tou Yun He Xuan Yun,188
+87,103642|Xun Ma Zhen,187
+88,147035|Fu Zhang,184
+89,112367|Xiong Tong,183
+90,111566|Shen Jing Yan,182
+91,106889|Shui Zhong,178
+92,105101|Ji Xing Wai Yin Yan,177
+93,122129|Zhui Guan Xia Zhai,177
+94,118492|Jia Zhuang Xian Jie Jie,173
+95,105738|Kou Qiang Gan Ran,173
+96,110898|Tong Feng Xing Guan Jie Yan,173
+97,218481|Bi Yan E Xing Zhong Liu,172
+98,118791|Xuan Yun Zong He Zheng,169
+99,138355|Zhui Dong Mai Xing Jing Zhui Bing,169
+100,105087|Nu Xing Pen Qiang Yan Xing Ji Bing,169
+101,124212|Jian Qiao Yan,168
+102,109595|Gu Zhi Shu Song,168
+103,103452|Fei Yan,167
+104,111460|Zu Sheng Chi,167
+105,104424|Guan Jie Tong,164
+106,111280|Gong Gu Wai Shang Ke Yan,164
+107,104105|Xiao Hua Bu Liang,162
+108,104431|Huai Guan Jie Tong,155
+109,127004|Xi Guan Jie Bing,154
+110,104846|Ren Dai Ji Huan,151
+111,179082|Gao Zhi Xie Zheng,150
+112,102455|Xian Yang Ti Fei Da,149
+113,142991|Nian Zhu Jun Xing Yin Dao Yan,141
+114,109931|Ru Xian Xian Bing,139
+115,119833|Dai Zhuang Pao Zhen Bu Ban You Bing Fa Zheng,137
+116,212251|Man Xing Shen Gong Neng Bu Quan,136
+117,110003|Nao Geng Si Hou Yi Zheng,134
+118,107788|Le Gu Gu Zhe,133
+119,111959|Que Ren Ren Shen,131
+120,114905|Gao Zhi Xie Zheng,130
+121,145978|Nao Gu Yuan Duan Gu Zhe,128
+122,219354|Gao Xie Ya,127
+123,116274|Zhen Jun Xing Yin Dao Yan,124
+124,152570|Niao Pin,124
+125,103046|Ji Xing Bian Tao Ti Yan,121
+126,102859|Hua Nang Yan,121
+127,103073|Liu Xing Xing Gan Mou,119
+128,218408|Gong Jing E Xing Zhong Liu,118
+129,138757|Shen Gong Neng Bu Quan,114
+130,111040|Qian Lie Xian Zeng Sheng,111
+131,104427|Wan Guan Jie Tong,109
+132,120796|Fei Pang Zheng,108
+133,103047|Ji Xing Hua Nong Xing Bian Tao Ti Yan,108
+134,105100|Man Xing Yin Dao Yan,108
+135,140321|Xi Jun Xing Yin Dao Yan,100
+136,105057|Gong Jing Yan Xing Ji Bing,100
+137,102138|Shu Niao Guan Jie Shi,98
+138,102630|Tuo Fa,98
+139,122101|Zeng Sheng Xing Ji Zhu Yan,97
+140,105736|Kou Qiang Nian Mo Kui Yang,96
+141,112335|Bi Chu Xie,95
+142,142485|Pi Zhen,94
+143,117202|Jiao Lu Zhuang Tai,93
+144,138508|Zao Qi Ren Gong Liu Chan,91
+145,219360|Yuan Fa Xing Gao Xie Ya,91
+146,104926|Gang Lie,90
+147,108143|Gu Zhe Zhi Liao Hou De Sui Zhen Jian Cha,88
+148,218138|Shen E Xing Zhong Liu,87
+149,104624|Nu Xing Geng Nian Qi Zong He Zheng,86
+150,207180|E Xing Zhong Liu,85
+151,"216690|Ru Xian E Xing Zhong Liu,Nei Ce",84
+152,117639|Zhi Gu Gu Zhe,83
+153,199019|Shen Jie Shi,82
+154,122135|Jing Yao Zong He Zheng,82
+155,114513|Zi Gong Ping Hua Ji Liu,81
+156,107320|Dan Bai Niao,80
+157,103446|Zhi Qi Guan Fei Yan,80
+158,138530|Gao Niao Suan Xie Zheng,79
+159,105547|Luan Chao Nang Zhong,79
+160,104591|Yue Jing Xi Shao,78
+161,110908|Tong Feng,77
+162,123718|Chang Yan,77
+163,104429|Kuan Guan Jie Tong,76
+164,122162|Ji Zhui Bing,76
+165,106936|Xie Tang Guo Duo,76
+166,109548|Zu Tong,74
+167,140779|Fei E Xing Zhong Liu,74
+168,140452|Yue Jing Guo Duo,74
+169,114602|Pian Tou Tong,73
+170,123173|Jing Jian Zong He Zheng,73
+171,103196|Qiu Zhen Xing Xun Ma Zhen,72
+172,141942|Yao Zhui Jian Pan Tuo Chu Ban Zuo Gu Shen Jing Tong,71
+173,112361|Yan Tong,71
+174,115639|Duo Nang Luan Chao Zong He Zheng,70
+175,212063|2Xing Tang Niao Bing,68
+176,147848|Jia Zhuang Xian Gong Neng Kang Jin Zheng,66
+177,103197|Gang Men Sao Yang (Zheng),66
+178,105114|Zi Gong Xian Ji Bing,65
+179,144609|Ji Xing Bi Yan,65
+180,118864|Bei Er Mian Tan,65
+181,218095|Qian Lie Xian E Xing Zhong Liu,65
+182,140312|Man Xing Shen Bing,63
+183,103455|Fei Yan Zhi Yuan Ti Ji Xing Zhi Qi Guan Yan,63
+184,218287|Ru Xian Zhong Liu,63
+185,138064|Gen Tong Zheng,63
+186,103640|Man Xing Xun Ma Zhen,62
+187,148141|Huai Guan Jie Gu Zhe,62
+188,105736|Kou Qiang Nian Mo Kui Yang,61
+189,123159|Yao Zhui Jian Pan Bian Xing,61
+190,107782|Xiong Zhui Gu Zhe,60
+191,146205|Dan Nang Jie Shi,60
+192,102576|Man Xing Zhi Qi Guan Yan,60
+193,105104|Man Xing Wai Yin Yan,60
+194,123719|Fu Xie,60
+195,112578|Yao Zhui Gu Zhe,58
+196,110621|Nao Geng Si,58
+197,119401|You Men Luo Xuan Gan Jun Gan Ran,58
+198,117629|Gen Gu Gu Zhe,58
+199,117164|Pin Xie,57
+200,110388|Xi Guan Jie Bing,57
+201,122172|Jing Zhui Jian Pan Tu Chu,56
+202,104820|Ban Yue Ban Bian Xing,56
+203,103207|Han Pao Zhen,55
+204,154025|Zhuan An Mei Sheng Gao,55
+205,218497|Lin Ba Liu,55
+206,218148|Bang Guang E Xing Zhong Liu,54
+207,144976|Fei Liang Xing Zhong Liu,54
+208,104821|Ban Yue Ban Sun Shang,54
+209,115889|Jiao Xian,54
+210,102485|Sheng Dai Yan,53
+211,219321|Jia Zhuang Xian Zhong Liu,52
+212,138973|Mian Shen Jing Yan,52
+213,218333|E Xing Lin Ba Liu Ge Ren Shi,52
+214,148647|Gan Gong Neng Bu Quan,51
+215,106841|Teng Tong,51
+216,123376|Jing Tong,51
+217,106036|Wai Huai Gu Zhe,50
+218,143172|Zhi Qi Guan Xiao Chuan,50
+219,138081|Dan Ce Xi Guan Jie Gu Xing Guan Jie Bing,50
+220,219109|Hou E Xing Zhong Liu,49
+221,116528|Huai Guan Jie Niu Shang,49
+222,118029|Fei Jie Jie Bing,49
+223,217581|Xi Tong Xing Hong Ban Lang Chuang,48
+224,102282|Ke Sou Bian Yi Xing Xiao Chuan,48
+225,103140|Guo Min Xing Pi Yan,48
+226,109949|Ru Fang Jie Jie,47
+227,110995|Ji Xing Niao Dao Yan,47
+228,104041|Bu Wan Quan Xing Yao Wu Liu Chan,47
+229,102380|Huang He Ban,46
+230,112379|Wei Tong,46
+231,104426|Zhou Guan Jie Tong,46
+232,147030|Ou Tu,46
+233,103042|Yan Xia Yan,46
+234,217891|Man Xing Zu Sai Xing Fei Bing Ban You Ji Xing Jia Zhong,46
+235,123378|Yao Tong Ban You Zuo Gu Shen Jing Tong,46
+236,143262|Xi Guan Jie Fu Ren Dai Sun Shang,45
+237,142397|Hu Xi Dao Gan Ran,45
+238,103059|Ji Xing Yan Hou Yan,45
+239,123720|Xiao Er Chang Yan,45
+240,218218|Tang Niao Bing,44
+241,146662|Jing Gu Ping Tai Gu Zhe,44
+242,139473|Fen Mi Xing Zhong Er Yan,44
+243,105371|Jie Chang Xi Rou,44
+244,144779|Fei Bu Yin Ying,44
+245,115641|Luan Chao Zao Shuai,44
+246,107762|Xiong Bi Cuo Shang,43
+247,216044|Zhi Fang Gan,43
+248,113991|Qu Ti Hua Zhang Ai,43
+249,140755|Ru Xian Zeng Sheng,43
+250,103199|Wai Yin Sao Yang (Zheng),42
+251,111941|Qu Chu Zi Gong Nei Jie Yu Qi,42
+252,216769|Luan Chao E Xing Zhong Liu,42
+253,111809|Yi Niao,41
+254,104626|Lao Nian Xing Yin Dao Yan,41
+255,140568|Jia Zhuang Xian Zhong,41
+256,146993|Wan Guan Jie San Jiao Xian Wei Ruan Gu Sun Shang,41
+257,217541|Sai Xian E Xing Zhong Liu,41
+258,119322|Man Xing Jin Zhang Xing Tou Tong,41
+259,217124|Shi Guan E Xing Zhong Liu,40
+260,107384|Nao Gu Xia Duan Gu Zhe,40
+261,120486|Zhou Wei Shen Jing Bing,40
+262,123412|Ji Jin Mo Yan,40
+263,118781|Liang Xing Zhen Fa Xing Xuan Yun,39
+264,105583|Zi Gong Nei Mo Xi Rou,39
+265,106011|Bin Gu Gu Zhe,39
+266,118827|Xing Zao Shou,39
+267,215980|Man Xing Qing Du Yi Xing Bing Du Xing Gan Yan,39
+268,153963|Bin Gu Guan Jie Bing,38
+269,143282|Xi Guan Jie Sun Shang,38
+270,104676|She Yan,37
+271,218410|Zi Gong E Xing Zhong Liu,37
+272,120412|Wan Guan Zong He Zheng,37
+273,102484|Sheng Dai Jie Jie,37
+274,111064|Guan Zhuang Dong Mai Zhou Yang Ying Hua Xing Xin Zang Bing,37
+275,140309|Man Xing Shen Yan,36
+276,102471|Man Xing Hou Yan,36
+277,218672|Zai Sheng Zhang Ai Xing Pin Xie,36
+278,211700|Tang Niao Bing,35
+279,105513|Yao Zhui Xiao Guan Jie Wen Luan,35
+280,122134|Yao Zhui Zhui Guan Xia Zhai,35
+281,112465|Ren Gong Liu Chan Hou Sui Zhen Jian Cha,35
+282,138744|Man Xing Shen Zang Bing 4Qi,35
+283,119852|Xun Chang You,35
+284,110290|Ji Xing Guan Zhou Yan,35
+285,111582|Suo Gu Gu Zhe,35
+286,219188|Pa Jin Sen Bing,34
+287,109596|Gu Zhi Shu Song,34
+288,119723|Ru Xian Liang Xing Zhong Liu,34
+289,218316|Fei E Xing Zhong Liu Ge Ren Shi,33
+290,105739|Kou Qiang Yan,33
+291,109617|Xin Fang Zhan Dong,33
+292,111261|Gen Jian Yan,33
+293,216017|Gan Ying Hua,33
+294,150770|Gu Zhe Zhu Hou,33
+295,103600|Yin Xie Bing,32
+296,123711|Man Xing Fu Xie,32
+297,138080|Shuang Ce Xi Guan Jie Gu Xing Guan Jie Bing,32
+298,104093|Mi Lan Xing Wei Yan,32
+299,105097|Ji Xing Yin Dao Yan,31
+300,102281|Guo Min Xing Bi Yan Ban Xiao Chuan,31
+301,217922|Xie Ye Tou Xi,31
+302,112184|Xie Niao,31
+303,112422|Zhi Ti Ma Mu,31
+304,117171|Yi Yu Zhuang Tai,31
+305,143636|Huai Guan Jie Sun Shang,31
+306,109585|Gu Zhi Shu Song Ban You Bing Li Xing Gu Zhe,30
+307,106898|Sheng Chang Fa Yu Chi Huan,30
+308,145670|Zhang Zhi You,30
+309,109643|Xin Lu Shi Chang,30
+310,112353|E Ni,30
+311,121137|Gan E Xing Zhong Liu,29
+312,103205|Sao Yang Zheng,29
+313,138674|Ji Sui Xing Jing Zhui Bing,29
+314,141886|Jiao Lu Yi Yu Zhuang Tai,29
+315,102142|Mi Niao Xi Jie Shi,29
+316,138067|Xia Zhi Teng Tong,29
+317,"219135|Huo Qi Jin Lin Ba Liu,Wei Te Zhi",28
+318,102296|Zhi Qi Guan Kuo Zhang Ban Gan Ran,28
+319,217642|Dian Xian,27
+320,142984|Zhen Jun Xing Wai Er Dao Yan,27
+321,152886|Xiao Shou,27
+322,102706|Mao Nang Yan,27
+323,123377|Zuo Gu Shen Jing Tong,27
+324,117208|Jiao Lu Zhang Ai,27
+325,104679|She Kui Yang,27
+326,122076|Qiang Zhi Xing Ji Zhu Yan,27
+327,104332|Nu Xing Bu Yun Zheng,27
+328,112346|Chuan Xi,26
+329,110522|Gu Zhi Zeng Sheng,26
+330,104707|Fan Liu Xing Shi Guan Yan,26
+331,103754|Chun Yan,26
+332,104927|Gang Lu,26
+333,103438|Fei Yan Zhi Yuan Ti Xing Fei Yan,25
+334,103611|Mei Gui Kang Zhen,25
+335,217707|Fei Zhong Liu,25
+336,110875|Lei Feng Shi Xing Guan Jie Yan,25
+337,217702|Yi Xian Zhong Liu,25
+338,217087|Xia Yan E Xing Zhong Liu,25
+339,151144|Ren Shen Zhuang Tai,25
+340,115027|Shen Jing Guan Neng Zheng,25
+341,105723|Fu Fa Xing Kou Qiang A Fu Ta Kui Yang,24
+342,149731|Qing Chun Qi Fa Yu Zhuang Tai,24
+343,113172|Gu Zhe Zhi Liao Hou Hui Fu Qi,24
+344,102584|Fei Qi Zhong,24
+345,103172|Jie Hong Xing Pi Yan,24
+346,218314|Yi Xian E Xing Zhong Liu Ge Ren Shi,24
+347,215941|Man Xing Shen Yan,24
+348,112002|Fei E Xing Zhong Liu Ge Ren Shi,24
+349,103117|Zhi Yi Xing Pi Yan,24
+350,144818|Bu Gua,23
+351,123390|Bei Tong,23
+352,118867|Zhou Wei Xing Mian Shen Jing Ma Bi,23
+353,103921|Ji Xing Dan Nang Yan,23
+354,138141|Ji Shang Ren Dai Yan,23
+355,102631|Zhi Yi Xing Tuo Fa,23
+356,110376|Can Guan,23
+357,141966|Nei Zhi,23
+358,141008|Zhi Wu Shen Jing Gong Neng Wen Luan,23
+359,106292|Zi Gong Nei Mo Zeng Hou,23
+360,107395|Nao Gu Gu Zhe,23
+361,121116|Jie Chang E Xing Zhong Liu,22
+362,152897|Xie Tang Sheng Gao,22
+363,144107|Dai Zhuang Pao Zhen Xing Shen Jing Tong,22
+364,102267|Man Xing Zu Sai Xing Fei Bing Ban You Ji Xing Jia Zhong,22
+365,145845|Zhi Gu Gu Zhe,22
+366,216692|Ru Fang E Xing Zhong Liu,22
+367,"103442|She Qu Huo De Xing Fei Yan,Fei Zhong Zheng",22
+368,123708|Ji Xing Wei Chang Yan,22
+369,118485|Jia Zhuang Xian Gong Neng Jian Tui Zheng,21
+370,219148|Xiong Xian E Xing Zhong Liu,21
+371,105584|Gong Jing Xi Rou,21
+372,141662|Di Chong Xing Yin Dao Yan,21
+373,105066|Man Xing Nu Xing Pen Qiang Yan,21
+374,102733|Shen Bing Zong He Zheng,21
+375,106827|Sheng Si,21
+376,115431|Nan Xing Bo Qi Zhang Ai,21
+377,144821|Shi Shui,20
+378,104906|Chang Yi Ji Zong He Zheng Ban You Fu Xie,20
+379,145781|Can Gen,20
+380,104601|Jing Qi Yan Chang,20
+381,217695|Jie Chang Zhong Liu,20
+382,102494|Sheng Dai Zhong Wu,20
+383,"215995|Man Xing Yi Xing Bing Du Xing Gan Yan,Ban You dYin Zi",20
+384,218569|Fu Mo E Xing Zhong Liu,20
+385,108725|Gan Gong Neng Jian Cha De Yi Chang Jie Guo,20
+386,113829|Jie Mo Yan,19
+387,102293|Zhi Qi Guan Kuo Zhang,19
+388,110304|Ya Ken Chu Xie,19
+389,152298|Chan Hou Sui Zhen,19
+390,145364|Nao Geng Si Hui Fu Qi,19
+391,218768|Qian Lie Xian Zhong Liu,19
+392,102057|Pi Fu Zhui Sheng Wu,19
+393,123713|Man Xing Jie Chang Yan,19
+394,111469|Qu (Ya),19
+395,121012|Jia Zhuang Xian E Xing Zhong Liu,19
+396,217907|A Er Ci Hai Mo Bing,19
+397,212033|Dian Xian,18
+398,217043|Duo Fa Xing Gu Sui Liu,18
+399,110568|Nan Xing Bu Yu Zheng,18
+400,111810|Niao Zhu Liu,18
+401,139158|Gan Ran,18
+402,"104628|Jue Jing Qi He Wei Jue Jing Qi De Ji Huan,Qi Ta Te Zhi De",18
+403,116578|Duo Chu Cuo Shang,18
+404,113908|Yu Ji Xing Pi Yan,18
+405,144446|Lin Ba Jie Bing,18
+406,216067|Gao Zhi Xie Zheng,18
+407,104792|Zhi Fang Gan,18
+408,113534|Dai Zhuang Pao Zhen Hou Yi Zheng,18
+409,219592|Tang Niao Bing,18
+410,147581|Mian Yi Xing Xie Xiao Ban Jian Shao,18
+411,144096|Shui Dou,17
+412,150635|Gu Zhe Zhu Hou Hui Fu Qi,17
+413,103976|Gan Zao Zong He Zheng [She Ge Lun],17
+414,106001|Xiao Tui Cuo Shang,17
+415,109586|Jue Jing Hou Gu Zhi Shu Song,17
+416,117392|Zha Yan Zheng,17
+417,103591|Zhang Zhi Nong Pao Bing,17
+418,138065|Jian Tong,17
+419,102483|Sheng Dai Xi Rou,17
+420,120885|Xi Jun Xing Gan Ran,17
+421,117300|Shi Wang Mo Ji Huan,17
+422,207660|2Xing Tang Niao Bing Shen Bing IIQi,17
+423,138079|Xi Guan Jie Tui Xing Xing Bing Bian,17
+424,219490|Nao Xie Guan Yi Wai,17
+425,111565|Shen Jing Tong,16
+426,120532|Pa Jin Sen Bing,16
+427,103485|Man Xing Bi Yan Yan,16
+428,216150|Gao Xie Ya,16
+429,110997|Niao Dao Zong He Zheng,16
+430,120066|Jia Zhuang Xian Ji Huan,16
+431,146866|Dong Mai Ying Hua,16
+432,118502|Jie Jie Xing Jia Zhuang Xian Zhong,16
+433,111549|Ji Tong,16
+434,106424|Zhang Gu Gu Zhe,16
+435,141526|Yan Xing He Zhong Du Xing Shen Jing Bing,16
+436,217160|Fei Huo Qi Jin Lin Ba Liu,16
+437,146543|Wei Kui Yang,16
+438,146219|Gong Gu Da Jie Jie Gu Zhe,16
+439,109993|Nao Dong Mai Gong Xie Bu Zu,16
+440,105680|Ji Xing Sai Xian Yan,16
+441,141974|Qian Lie Xian Yan,16
+442,121120|Zhi Chang E Xing Zhong Liu,16
+443,107035|Yan Nei Yi Wu,15
+444,111238|Gong Er Tou Ji Chang Tou Ji Jian Yan,15
+445,106685|Gu Gu Jing Gu Zhe,15
+446,106716|Nao Geng Si Ge Ren Shi,15
+447,114347|Man Xing Yi Xing Bing Du Xing Gan Yan,15
+448,103636|Dan Jian Neng Xing Xun Ma Zhen,15
+449,118306|Ting Ning Shuan Sai,15
+450,115433|Zao Xie,15
+451,118872|Mian Ji Jing Luan,15
+452,119314|Xie Guan Xing Tou Tong,15
+453,104588|Bi Jing,15
+454,143132|Ji Xing Wei Yan,15
+455,111542|Ji Jian Yan,15
+456,105438|IgAShen Bing,15
+457,122114|Jiao Gan Shen Jing Xing Jing Zhui Bing,15
+458,219389|Gao Xie Ya Nao Bing,15
+459,143266|Xi Guan Jie Nei Ce Fu Ren Dai Sun Shang,14
+460,112386|E Xin He Ou Tu,14
+461,217700|Hu Fu Bu Zhong Liu,14
+462,218765|Luan Chao Zhong Liu,14
+463,112582|Wei Gu Gu Zhe,14
+464,218617|Ji Xing Sui Xi Bao Bai Xie Bing,14
+465,218168|Gan Ying Hua Shi Dai Chang Qi,14
+466,105621|Zi Gong Qi Shi,14
+467,123927|Jia Gou Yan,14
+468,114478|Gong Jing E Xing Zhong Liu,14
+469,104937|Gang Zhou Nong Zhong,13
+470,107761|Xiong Bu Cuo Shang,13
+471,145814|Zhi Gu Gu Zhe,13
+472,219289|Man Xing Zu Sai Xing Fei Ji Bing IVJi,13
+473,108464|Jian Kang Cha Ti,13
+474,104295|Ji Zhu Ce Wan,13
+475,146355|Zhan Chu,13
+476,104702|Shi Guan Yan,13
+477,118780|Mei Ni Ai [Mei Ni Er]Bing,13
+478,106220|Jian Qiao Nang Zhong,13
+479,216015|Man Xing Gan Yan,13
+480,217729|Bang Guang Zhong Liu,13
+481,102617|Ban Tu,13
+482,123382|Yao Bei Tong,13
+483,146216|Gong Gu Jin Duan Gu Zhe,13
+484,147315|Ting Li Jian Tui,13
+485,142332|Chang Yi Ji Zong He Zheng,13
+486,124208|Xi Guan Jie Hua Mo Yan,13
+487,110816|Xia Zhi Kui Yang,12
+488,118930|Bai Ri Ke,12
+489,111592|Gong Gu Gu Zhe,12
+490,106274|Gan Zhan Wei Xing Bing Bian,12
+491,118854|San Cha Shen Jing Tong,12
+492,119860|Shou Zu Kou Bing,12
+493,216211|Jiu Jing Xing Gan Ying Hua,12
+494,102585|Fei Da Pao,12
+495,203260|Jing Zhui Bing,12
+496,152571|Ye Niao,12
+497,218866|Zi Gong Nei Mo E Xing Zhong Liu,12
+498,119853|You,12
+499,114961|Zi Dian,12
+500,106688|Gu Gu Cu Long Jian Gu Zhe,12
+501,112344|Hu Xi Kun Nan,12
+502,138741|Man Xing Shen Zang Bing 1Qi,12
+503,102643|Bai Fa,12
+504,105710|Kou Gan Zao Zheng,12
+505,120426|Li Zhuang Ji Zong He Zheng,12
+506,119639|Wei E Xing Zhong Liu,12
+507,143191|Liu Xian Zheng,12
+508,206292|Nao Xie Guan Bing,12
+509,115192|Jing Shen Fen Lie Zheng,12
+510,115218|Que Tie Xing Pin Xie,12
+511,106020|Jing Gu Gu Zhe,12
+512,219260|Gan Yan Hou Gan Ying Hua Shi Dai Chang Qi,11
+513,111607|Jian Guan Jie Tuo Wei,11
+514,115020|Shen Jing Shuai Ruo,11
+515,112580|Di Gu Gu Zhe,11
+516,103049|Ji Xing Hou Yan,11
+517,109892|Xie Jing,11
+518,103976|Gan Zao Zong He Zheng,11
+519,109843|Gui Tou Yan,11
+520,218429|Yi Yu Fa Zuo,11
+521,"146462|Zhi Qi Guan Fei Yan,Fei Zhong Zheng",11
+522,"217997|Jing Shen Fen Lie Zheng,Qi Ta De",11
+523,108621|Jing Bu Ji Sui Sun Shang,11
+524,103533|Bi Yong,11
+525,144822|Pi Lao @2024-06-09,11
+526,123923|Pi Fu Yong,11
+527,141080|Dan Chun Xing Fei Pang,11
+528,102293|Zhi Qi Guan Kuo Zhang (Zheng),11
+529,107130|Zi Gong Qie Chu Zhu Hou Zhuang Tai,11
+530,102221|Ji Xing Bang Guang Yan,11
+531,139534|Gu Gu Tou Que Xie Xing Pi Si,11
+532,110288|Ya Guan Zhou Nong Zhong,11
+533,112185|Niao Shi Jin,11
+534,117336|Bo Li Ti Hun Zhuo,11
+535,217058|Gu Sui Liu Bing,11
+536,119390|Zhi Yuan Ti Gan Ran,11
+537,138742|Man Xing Shen Zang Bing 2Qi,11
+538,140908|Mo Xing Shen Bing,11
+539,123712|Man Xing Wei Chang Yan,11
+540,120624|Nao Wei Suo,11
+541,103950|Dan Nang Xi Rou,10
+542,111460|Zu Sheng Ya,10
+543,111277|Gong Gu Nei Shang Ke Yan,10
+544,124211|Hua Mo Yan,10
+545,207993|Zhi Qi Guan Xiao Chuan,10
+546,218827|2Xing Tang Niao Bing,10
+547,145359|Nao Chu Xie Hou Yi Zheng,10
+548,106246|E Zhi Hua Nang Yan,10
+549,111509|Ji Xing Gen Jian Zhou Yan,10
+550,111514|Gen Jian Zhou Nong Zhong,10
+551,103471|Ji Xing Chuan Xi Xing Zhi Qi Guan Yan,10
+552,145356|Zhu Wang Mo Xia Qiang Chu Xie Hou Yi Zheng,10
+553,123383|Yao Bei Ji Jin Mo Yan,10
+554,104012|Ji Liu Liu Chan,10
+555,138267|Ying Yang Bu Liang,10
+556,218339|Jia Zhuang Xian E Xing Zhong Liu Ge Ren Shi,10
+557,139475|Ji Xing Zhong Er Yan,10
+558,144343|Ji Xing Lan Wei Yan,10
+559,219586|Tang Niao Bing Ban You Shen De Bing Fa Zheng,10
+560,106892|Shou Han Zheng,10
+561,102122|Man Xing Shen Zang Bing 2Qi,10
+562,216323|Man Xing Shen Yan Zong He Zheng,10
+563,141916|Tong Feng Shi,10
+564,123358|Di Wei Bu Tong,10
+565,115154|Ru Xian Zhong Liu,10
+566,123921|Pi Fu Jie,10
+567,118877|Mian Shen Jing Ji Huan,10
+568,104711|Hou Yan Fan Liu,10
+569,141201|Shen Yan,10
+570,107002|Xia Zhi Sun Shang,10
+571,217715|Zi Gong Jing Zhong Liu,10
+572,211769|Man Xing Shen Shuai Jie,10
+573,216385|Lei Feng Shi Xing Guan Jie Yan,10
+574,123710|Man Xing Chang Yan,10
+575,109997|Nao Xie Guan Bing,10
+576,115929|Jie Chang Yan,10

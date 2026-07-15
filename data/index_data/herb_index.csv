@@ -1,0 +1,527 @@
+﻿id,name,count
+0,Gan Cao Pian,32393
+1,Fu Ling,31164
+2,Bei Chai Hu,22308
+3,Chen Pi,22286
+4,Fu Chao Bai Zhu,21778
+5,Dang Gui,21096
+6,Chuan Qiong,18820
+7,Zhi Gan Cao,18697
+8,Sheng Bai Shuo,18391
+9,Dang Can,17075
+10,Huang Qin,16808
+11,Huang Qi,15612
+12,Jiang Ban Xia (Zhe),14139
+13,Fu Chao Zhi Ke,13283
+14,Gui Zhi,12374
+15,Niu Xi,11969
+16,Jie Geng,11819
+17,Fang Feng,11239
+18,Fa Ban Xia,11237
+19,Hou Po,9856
+20,Ze Xie,9313
+21,Chi Shuo,9108
+22,Mai Dong,8868
+23,Chao Ji Nei Jin,8392
+24,Dan Can,8255
+25,Huang Bo,8205
+26,Yan Du Zhong,7893
+27,Chan Shui,7874
+28,Shan Yao,7848
+29,Yi Yi Ren,7677
+30,Shou Di Huang,7628
+31,Sha Ren,7535
+32,Sheng Di Huang,7424
+33,Zhe Bei Mu,7355
+34,Fu Chao Cang Zhu,7146
+35,Jing Jie,6944
+36,Mi Fu Jiang Tian,6867
+37,He Huan Pi,6844
+38,Ge Gen,6745
+39,Zheng Nan Wu Wei Zi,6612
+40,Du Huo,6444
+41,Fo Shou,6410
+42,Cu Xiang Fu,6404
+43,Yan Huo Xiang,6386
+44,Cu Yan Hu Suo,6178
+45,Xi Xin,6156
+46,Bai Zhi,6060
+47,Bei Sha Can,6031
+48,Ku Xing Ren,5968
+49,Qiang Huo,5898
+50,Huang Lian,5833
+51,Sheng Bai Zhu,5767
+52,Xuan Can,5630
+53,Mu Dan Pi,5617
+54,Da Zao,5585
+55,Zhi Yuan Zhi Rou,5578
+56,Shou Wu Teng,5550
+57,Tao Ren,5513
+58,Sheng Jiang,5454
+59,Ren Can (Sheng Shai Can),5357
+60,Bai Bu,5145
+61,Jiu Yu Rou,5132
+62,Fu Bai Shuo,5051
+63,Hong Hua,5009
+64,Tai Zi Can,4926
+65,Shi Chang Pu,4916
+66,Chao Suan Zao Ren,4888
+67,Zhi Mu,4487
+68,Mu Xiang,4470
+69,Rou Gui,4338
+70,Bo He,4270
+71,Qin Qiu,4261
+72,Xu Duan,4125
+73,Jin Yin Hua,4100
+74,Yu Jin,4084
+75,Gou Qi Zi,3980
+76,Tian Hua Fen,3979
+77,Lian Qiao,3961
+78,Hu Ji Sheng,3913
+79,Gan Jiang,3895
+80,Chao Man Jing Zi,3887
+81,Mu Li,3876
+82,Ku Can,3859
+83,Jiang Huang,3845
+84,Sheng Mai Ya,3730
+85,Quan He,3630
+86,Fu Chao Zhi Shi,3556
+87,Zi Su Xie,3485
+88,Mi Zi Wan,3484
+89,Da Huang,3453
+90,Zhi Huang Qi,3357
+91,She Gan,3332
+92,Qian Hu,3285
+93,Chao Mai Ya,3269
+94,Pu Gong Ying,3260
+95,Sheng Shan Zha,3253
+96,Ji Xie Teng,3247
+97,Shi Gao,3242
+98,Sheng Ma,3218
+99,Zhu Ru,3217
+100,Zhi Zi,3174
+101,E Zhu,3144
+102,Ma Huang,3088
+103,Jiao Liu Shen Qu,3066
+104,Mu Gua,3047
+105,Dan Zhu Xie,3043
+106,San Qi Pian,3041
+107,Tu Si Zi,3022
+108,Fang Ji,2979
+109,Lu Gen,2978
+110,Long Dan,2962
+111,Tian Ma,2961
+112,Duan Mu Li,2958
+113,Yan Bu Gu Zhi,2869
+114,Hua Jiao,2846
+115,Mu Hu Die,2845
+116,Xin Yi,2823
+117,Yu Zhu,2807
+118,Sang Bai Pi,2795
+119,Wei Ling Xian,2705
+120,Fu Shen,2692
+121,Yan Che Qian Zi,2691
+122,Fu Pian,2689
+123,Cu Mei Yao,2633
+124,Bo Zi Ren,2552
+125,Chao Niu Pang Zi,2481
+126,San Leng,2422
+127,Bing Pian,2410
+128,Cu Ru Xiang,2405
+129,Chao Shan Zha,2359
+130,Bai He,2320
+131,Duan Long Gu,2301
+132,Mi Kuan Dong Hua,2297
+133,Di Yu,2248
+134,Tu Jing Pi,2177
+135,Gou Teng,2122
+136,Jiao Zhi Zi,2112
+137,Long Gu,2106
+138,Bai Qian,2101
+139,Pang Da Hai,2100
+140,Ju Hua,2017
+141,Chao Lai Fu Zi,1993
+142,Chao Cang Er Zi,1983
+143,Di Fu Zi,1959
+144,Zhi He Shou Wu,1934
+145,Chao Huang Qin,1932
+146,Wu Mei,1921
+147,Chao Huang Lian,1914
+148,Wu Yao,1911
+149,Huo Ma Ren,1868
+150,Zi Jin Pi,1840
+151,Pei Lan,1831
+152,Bai Hua She She Cao,1829
+153,Xia Ku Cao,1814
+154,Ba Ji Tian,1807
+155,Sheng Zhen Zhu Mu,1800
+156,Tu Fu Ling,1786
+157,Da Xie Teng,1723
+158,Chao Bai Bian Dou,1718
+159,Ting Li Zi,1693
+160,Zao Jiao Ci,1671
+161,Fu Chao Yi Yi Ren,1642
+162,Mi Ma Huang,1634
+163,Chuan Niu Xi,1613
+164,Chao Dao Ya,1596
+165,Yu Zhi Zi,1592
+166,Ji Shi Teng,1562
+167,Jiu Nu Zhen Zi,1521
+168,Chao Tu Bie Chong,1502
+169,Tian Dong,1494
+170,Mo Han Lian,1490
+171,Cu Bie Jia,1482
+172,Gua Lou,1481
+173,Bai Jiang Cao,1472
+174,Xian Ling Pi,1465
+175,Qian Shi,1435
+176,Xiao Hui Xiang,1431
+177,Mei Gui Hua,1424
+178,Yan Yi Zhi Ren,1420
+179,Dou Kou,1391
+180,Zi Su Geng,1386
+181,Mi Pi Pa Xie,1343
+182,Zhi Wu Zhu Yu,1334
+183,Hai Piao Shao,1330
+184,Shou Da Huang,1315
+185,Zhi Chuan Wu,1303
+186,Jiu Di Long,1289
+187,Yu Xing Cao,1284
+188,Dai Dai Hua,1284
+189,Yin Yang Huo,1277
+190,Fu Xiao Mai,1269
+191,Jue Ming Zi,1248
+192,Dan Dou Shi,1243
+193,Shi Jue Ming,1225
+194,Yi Mu Cao,1220
+195,Gao Ben,1217
+196,Shen Jin Cao,1196
+197,Chao Zi Su Zi,1181
+198,Chuan Lian Zi,1171
+199,Shi Hu,1149
+200,Qing Hao,1145
+201,Mi Fu Qing Pi,1144
+202,Sang Xie,1136
+203,Xian He Cao,1129
+204,Tong Cao,1119
+205,Rou Cong Rong,1110
+206,Yin Chen,1097
+207,Chao Ji Li,1089
+208,Da Fu Pi,1083
+209,Gua Lou Pi,1082
+210,Ai Xie,1048
+211,Pi Pa Xie,1036
+212,Gou Ji,1036
+213,Duan Zhe Shi,1025
+214,Sang Zhi,1015
+215,Shui Niu Jiao,971
+216,Lou Lu,967
+217,Zhu Ling,955
+218,Shi Jian Chuan,953
+219,Hong Qi,952
+220,Chao Jie Zi,951
+221,Ban Zhi Lian,945
+222,Di Gu Pi,940
+223,Mian Ma Guan Zhong,931
+224,Duan Wa Leng Zi,918
+225,Xuan Fu Hua,918
+226,Wu Gong,917
+227,Pao Jiang,913
+228,Ling Zhi,905
+229,He Xie,902
+230,Duan Ci Shi,899
+231,San Xie Qing,880
+232,Chao Wang Bu Liu Xing,868
+233,Ma Chi Xian,864
+234,Xu Chang Qing,855
+235,Ren Dong Teng,843
+236,Jin Qiao Mai,828
+237,Tou Gu Cao,823
+238,Zhi Huang Jing,819
+239,Teng Li Gen,807
+240,Ji Xue Cao,803
+241,Xiang Ru,794
+242,Bai Mao Gen,793
+243,Su Mu,790
+244,Lu Jiao Pian,783
+245,Hai Tong Pi,779
+246,Lian Zi,770
+247,Wu Bei Zi,761
+248,Huai Xiao Mai,758
+249,Qian Cao,754
+250,Chao Gu Sui Bu,751
+251,Qu Mai,740
+252,Chao Lu Lu Tong,733
+253,Pu Huang,715
+254,Che Qian Cao,711
+255,Dan Nan Xing,710
+256,Tian Xie Ju,682
+257,Jiu Wu Ling Zhi,661
+258,Wu Jia Pi,660
+259,She Chuang Zi,659
+260,Hua Shi,656
+261,Bai Ji,656
+262,Nan Fang Hong Dou Shan,636
+263,Nan Sha Can,633
+264,Ba Jie,630
+265,Chui Pen Cao,625
+266,Fu Pen Zi,614
+267,Jin Ying Zi,607
+268,Mi Bai Bu,605
+269,Bai Xian Pi,601
+270,Jing Jie Sui,595
+271,Sang Shen,590
+272,Hong Qu,589
+273,Ding Xiang,583
+274,Ban Lan Gen,579
+275,Cu Gui Jia,577
+276,Jin Qian Cao,571
+277,Xian Mao,556
+278,Chao Gua Lou Zi,548
+279,Chuan Mu Tong,541
+280,Pie Tao Gan,541
+281,Yu Li Ren,534
+282,Zi Cao,519
+283,Pian Xu,517
+284,Lu Jiao Shuang,513
+285,Ze Lan,506
+286,Mei Hua,504
+287,Hu Po,504
+288,Zhi Cao Wu,500
+289,Zhi Nan Xing,487
+290,Chong Wei Zi,476
+291,Bin Lang,469
+292,Shi Wei,462
+293,Mao Zhua Cao,461
+294,Chao Feng Fang,458
+295,Xie Bai,455
+296,Jiao Gu Lan,438
+297,Mang Xiao,434
+298,Ya Zhi Cao,432
+299,Chao Huang Bo,429
+300,Hai Jin Sha,425
+301,Yu Mi Xu,420
+302,Chao Huai Hua,420
+303,Gan Cao Ke Li,410
+304,Fu Ling Ke Li,409
+305,Xi Lian Cao,405
+306,Chao He Zi,395
+307,Bai Yao Jian,392
+308,Ma Huang Gen,376
+309,Chao Sang Piao Shao,369
+310,Fu Chao Chun Pi,368
+311,Fu Wen Shan Yao,365
+312,Sheng Ce Bo Xie,364
+313,Hu Zhang,351
+314,Xiang Yuan,350
+315,Di Yu Tan,346
+316,Ming Fan,341
+317,Mao Ren Can,340
+318,Mian Bei Jie,337
+319,Sheng Di Huang Tan,333
+320,Chuan Bei Mu,332
+321,Cao Dou Kou,328
+322,Deng Xin Cao,326
+323,Hong Jing Tian,325
+324,Zi Hua Di Ding,324
+325,Suo Yang,324
+326,Chao Ge Gen,324
+327,Gao Liang Jiang,323
+328,Nuo Dao Gen,322
+329,Sheng Ji Nei Jin,321
+330,Ye Ju Hua,319
+331,Sheng Yang Qi Shi,315
+332,Chen Pi Ke Li,312
+333,Chen Xiang Qu,308
+334,Lu Dou Yi,303
+335,Dong Gua Zi,302
+336,Sha Yuan Zi,300
+337,Duan Zi Ran Tong,296
+338,Bai Shuo Ke Li,292
+339,Qing Dai,290
+340,Shan Ci Gu,290
+341,A Xiao,289
+342,Huang Qin Ke Li,288
+343,Tian Long,288
+344,Xi Qing Guo,286
+345,Mi Fu Rou Dou Kou,274
+346,Bei Chai Hu Ke Li,274
+347,Pu Huang Tan,272
+348,Tan Xiang,265
+349,Zhong Lou,260
+350,Fu Chao Zhi Ke Ke Li,249
+351,Chen Xiang,247
+352,Liu Ji Nu,245
+353,Ju Hong,241
+354,Lu Jiao Xiao,238
+355,Di Jin Cao,238
+356,Ren Can Xie,235
+357,Ban Bian Lian,234
+358,Dang Can Ke Li,230
+359,Qing Ban Xia,227
+360,Chao Dang Can,225
+361,Long Kui,224
+362,Gan Song,221
+363,Chuan Shan Long,219
+364,Fu Ping,217
+365,Zhi Gan Cao Ke Li,215
+366,Yan Huo Xiang Ke Li,215
+367,Ci Wei Pi,213
+368,Xiang Cha Cai,209
+369,Chi Xiao Dou,207
+370,A Xiao Zhu,204
+371,Fu Mu Xiang,204
+372,Liu Yi Fen,202
+373,Yan Ju He,202
+374,Bai Mao Teng,198
+375,Sheng Jiang Ke Li,195
+376,Ge Gen Ke Li,191
+377,Ou Jie Tan,190
+378,Fa Ban Xia Ke Li,190
+379,Fu Chao Bai Zhu Ke Li,190
+380,Hai Zao,188
+381,Jiang Ban Xia Ke Li,187
+382,Yang Ru,185
+383,Jiang Hou Po Ke Li,184
+384,Ma Bian Cao,182
+385,Shi Liu Pi,182
+386,Da Zao Ke Li,179
+387,Bai Zhu Ke Li,176
+388,Ku Xing Ren Ke Li,174
+389,He Huan Mi,172
+390,Chao Fang Feng,172
+391,Sheng Jiang Pi,170
+392,Jie Geng Ke Li,170
+393,Tian Sha,170
+394,Gui Zhi Ke Li,168
+395,Tian Kui Zi,168
+396,Lu Xian Cao,167
+397,Si Gua Luo,163
+398,Bai Zhi Ke Li,163
+399,Kun Bu,160
+400,Tang Shui Zhi,156
+401,Fu Ling Pi,156
+402,Bai Wei,154
+403,Qian Cao Tan,153
+404,Lu Gen Ke Li,151
+405,Sha Ren Ke Li,146
+406,Luo Shi Teng,145
+407,She Liu Gu,144
+408,Fu Hai Shi,144
+409,San Qi Fen,142
+410,Ye Pu Tao Gen,141
+411,Xiao Ji,141
+412,Huang Lian Ke Li,141
+413,Cao Guo Ren,139
+414,Bai Guo,137
+415,Shi Shang Bo,137
+416,Long Chi,134
+417,Ai Xie Tan,133
+418,Gu Jing Cao,133
+419,Lian Qiao Ke Li,132
+420,Meng Ma Gen,130
+421,Ma Huang Ke Li,129
+422,Dang Gui Ke Li,129
+423,Shan Yao Ke Li,129
+424,She Shui,127
+425,Jing Jie Ke Li,126
+426,Zi Shi Ying,125
+427,Mi Zi Wan Ke Li,124
+428,Bo He Ke Li,123
+429,Sang Bai Pi Ke Li,122
+430,Ze Qi,121
+431,Jing Jie Tan,121
+432,Bian Dou Hua,120
+433,Xi Yang Can,119
+434,Ai Di Cha,119
+435,Zi Su Geng Ke Li,117
+436,Tie Shu Xie,117
+437,Chuan Qiong Ke Li,114
+438,Liu Yue Xue,114
+439,Zhu Ru Ke Li,112
+440,Lao Guan Cao,110
+441,Ya Dan Zi,107
+442,Hou Po Hua,106
+443,Gui Jia Xiao,104
+444,Di Er Cao,102
+445,Da Qing Xie,101
+446,Shan Zha Tan,100
+447,Jin Yin Hua Ke Li,99
+448,Chao Zi Su Zi Ke Li,98
+449,Jin Chan Hua,96
+450,Mi Kuan Dong Hua Ke Li,95
+451,Xin Yi Ke Li,95
+452,Ting Li Zi Ke Li,94
+453,Huang Qi Ke Li,92
+454,Zhi Guan Bai Fu,92
+455,Mu Xiang Ke Li,92
+456,Qin Pi,91
+457,Jiu Dang Gui,90
+458,Tai Zi Can Ke Li,90
+459,Ou Jie,87
+460,Ling Xiao Hua,86
+461,Shu Mi,86
+462,Qian Niu Zi,86
+463,Qi Cai Hua,85
+464,Gui Jian Yu,84
+465,Fei Xing Cao,83
+466,Dan Zhu Xie Ke Li,83
+467,Ce Bo Tan,83
+468,Chao Lai Fu Zi Ke Li,82
+469,Sang Xie Ke Li,82
+470,Tao Ren Ke Li,81
+471,She Gan Ke Li,81
+472,Xie Yu Tan,81
+473,Mu Dan Pi Tan,81
+474,Jiu Cai Zi,80
+475,Yin Chai Hu,80
+476,Chao Niu Pang Zi Ke Li,79
+477,Sheng Di Huang Ke Li,79
+478,Qian Nian Jian,78
+479,Jin Guo Lan,78
+480,Qian Hu Ke Li,78
+481,Shui Hong Hua Zi,76
+482,Lian Xu,76
+483,Qiang Huo Ke Li,73
+484,Jiu Wu Shao She,73
+485,Hai Feng Teng,73
+486,Fu Chao Cang Zhu Ke Li,73
+487,Li Zhi He,72
+488,Ze Xie Ke Li,72
+489,Fang Feng Ke Li,69
+490,Zhe Bei Mu Ke Li,69
+491,Zhi Zi Ke Li,68
+492,Zhi Huang Qi Ke Li,68
+493,Gua Lou Pi Ke Li,66
+494,Zhi Ju Zi,66
+495,Dong Gua Pi,66
+496,Shan Dou Gen,65
+497,Jiao Shan Zha Ke Li,65
+498,E Bu Shi Cao,64
+499,Da Ji,64
+500,Gan Chan,64
+501,Pei Lan Ke Li,63
+502,Mu Dan Pi Ke Li,63
+503,Feng Wei Cao,62
+504,Fu Chao Zhi Shi Ke Li,62
+505,She Mei,61
+506,Xi Xin Ke Li,61
+507,Bai Bu Ke Li,61
+508,Dang Gui Tan,61
+509,Fo Er Cao,60
+510,Cu Xiang Fu Ke Li,60
+511,Jiang Xiang,60
+512,Mu Fu Rong Xie,60
+513,Sheng Qing Meng Shi,59
+514,Ji Yan Cao,59
+515,Mai Dong Ke Li,57
+516,Shi Nan Xie,55
+517,Chao Jiu Xiang Chong,55
+518,Pu Gong Ying Ke Li,53
+519,Fo Shou Ke Li,53
+520,Mi Meng Hua,52
+521,Yan Bo Cao,52
+522,Chi Shi Zhi,51
+523,Sheng Ma Ke Li,50
+524,Jiu Yu Rou Ke Li,50
+525,Dan Can Ke Li,50

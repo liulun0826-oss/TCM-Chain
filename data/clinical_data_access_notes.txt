@@ -1,0 +1,36 @@
+Clinical Data Access Notes
+==========================
+
+This public repository does not include the patient-level clinical table
+data/tcm_benchmark.csv.
+
+Rationale
+---------
+The retained ethics material is a project-application-stage ethics review
+opinion. To avoid treating that material as full authorization for public data
+redistribution, this repository uses a conservative release boundary: it
+publishes code, rules, index tables, data preparation logic, configuration, and
+validation tooling, but it does not redistribute the complete training table
+that contains patient-level free text.
+
+Data Generation
+---------------
+Researchers with institutional data-sharing authorization may prepare the
+private source data locally and run:
+
+python prepare_release_data.py
+
+The script generates:
+
+- data/tcm_benchmark.csv
+- data/deidentification_report.json
+- data/index_data/*.csv
+
+The generated data/tcm_benchmark.csv file is ignored by Git. It must not be
+committed to a public repository unless the data holder confirms that ethics
+approval and institutional authorization cover public sharing.
+
+Use Restrictions
+----------------
+Users must not attempt patient re-identification and must not use the data for
+clinical diagnosis, treatment decisions, or any unauthorized purpose.
